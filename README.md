@@ -50,7 +50,7 @@ I am passionate about Data Science, Machine Learning, and exploring the future o
 ## 📫 Connect with Me
 - 📍 Puducherry, India  
 - 📧 [sivakumarloganadane23@gmail.com](mailto:sivakumarloganadane23@gmail.com)  
-- 🔗 [LinkedIn](https://linkedin.com/in/sivakumar loganadane)  
+- 🔗 [LinkedIn](https://linkedin.com/in/sivakumarloganadane)  
 
 ---
 
