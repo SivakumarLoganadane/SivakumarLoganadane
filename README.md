@@ -34,9 +34,8 @@ I am passionate about Data Science, Machine Learning, and exploring the future o
 ## 📚 Education
 - 🎓 B.Tech – Computer Science and Engineering  
   *Manakula Vinayagar Institute of Technology, Puducherry (2023–2027)*  
-- 🏫 Higher Secondary (2021–2023) – Petit Seminaire Hr. Sec. School, Puducherry  
-- 🏫 High School (2020–2021) – Petit Seminaire Hr. Sec. School, Puducherry  
-
+- 🏫 Higher Secondary (2021–2023) – Petit Seminaire Hr. Sec. School, Puducherry
+  
 ---
 
 ## 🌟 About Me
@@ -50,7 +49,7 @@ I am passionate about Data Science, Machine Learning, and exploring the future o
 ## 📫 Connect with Me
 - 📍 Puducherry, India  
 - 📧 [sivakumarloganadane23@gmail.com](mailto:sivakumarloganadane23@gmail.com)  
-- 🔗 [LinkedIn](https://linkedin.com/in/sivakumarloganadane)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sivakumar-loganadane-19247b294/)
 
 ---
 
