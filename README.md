@@ -2,7 +2,7 @@
 
 🎯 **Aspiring Data Scientist | AI & ML Enthusiast | IoT Innovator**
 
-I am passionate about Data Science, Machine Learning, and exploring the future of AI. Currently pursuing my **B.Tech in Computer Science and Engineering (AI & ML specialization)** at Sri Manakula Vinayagar Institute of Technology, Puducherry.  
+I am passionate about Data Science, Machine Learning, and exploring the future of AI. Currently pursuing my **B.Tech in Computer Science and Engineering (AI & ML specialization)** at Manakula Vinayagar Institute of Technology, Puducherry.  
 
 🌱 Always curious about **Generative AI, Quantum Mechanics, and Teleportation** — blending science and technology to build futuristic solutions.  
 
